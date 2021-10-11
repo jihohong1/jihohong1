@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jihohong1
 - 👀 I’m interested in machine learning.
-- 🌱 I’m currently learning deep learning with pytorch.
+- 🌱 I’m currently learning deep learning with Tensorflow.
 - :)
 
 <!---
