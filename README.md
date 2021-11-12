@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jihohong1
 - 👀 I’m interested in machine learning.
 - 🌱 I’m currently learning deep learning with Tensorflow.
-- :)
+- Life is good :)
 
 <!---
 jihohong1/jihohong1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
